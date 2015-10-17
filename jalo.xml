@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jalo>
+    <!--
+      Specify the application name.
+      It's not used for anything in particular.
+      -->
+    <application-name>sayHi</application-name>
+
+    <!--
+      Specify the directory where stored the app.xml file
+      -->
+    <application-directory>../</application-directory>
+
+    <!--
+      Specify where to get the app.xml file.
+      -->
+    <url></url>
+
+    <!--
+      Update automatically?
+      1 : Yes, update automatically.
+      0 : No, update manually.
+      -->
+    <auto-update></auto-update>
+
+    <!--
+      Specify java class to download app.xml and new modules.
+      -->
+    <update-class></update-class>
+
+    <!--
+      Specify the temporary directory.
+      -->
+    <temporary-directory></temporary-directory>
+</jalo>
