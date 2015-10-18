@@ -14,22 +14,22 @@
     <!--
       Specify where to get the app.xml file.
       -->
-    <url></url>
+    <url>https://github.com/randyd12/sayHi</url>
 
     <!--
       Update automatically?
       1 : Yes, update automatically.
       0 : No, update manually.
       -->
-    <auto-update></auto-update>
+    <auto-update>1</auto-update>
 
     <!--
       Specify java class to download app.xml and new modules.
       -->
-    <update-class></update-class>
+    <update-class>com.rmd.animals.dog</update-class>
 
     <!--
       Specify the temporary directory.
       -->
-    <temporary-directory></temporary-directory>
+    <temporary-directory>tmp</temporary-directory>
 </jalo>

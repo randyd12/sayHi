@@ -3,24 +3,24 @@
     <!--
       Specify the application name.
       -->
-    <name></name>
+    <name>sayHi</name>
 
     <!--
       Specify the application version number.
       If this version number greater than local app's version number,
       download files and update the application.
       -->
-    <version></version>
+    <version>1</version>
 
     <!--
       Specify all jar files to run your application.
       -->
     <classpath>
-        <path></path>
+        <path>sayHi.jar</path>
     </classpath>
 
     <!--
       Specify main class to run your application.
       -->
-    <mainclass></mainclass>
+    <mainclass>Main</mainclass>
 </app>
